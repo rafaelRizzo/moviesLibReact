@@ -6,7 +6,7 @@ Desktop
 
 <hr/>
 Mobile
-<div style="width: 800px; margin: 0 auto;">
-  <img style="width: 425px; height: 500px" src="https://github.com/rafaelRizzo/moviesLibReact/blob/main/projeto-mobile.png"/>
+<div style="width: 800px; height: 500px; margin: 0 auto; overflow: hidden;">
+  <img style="width: 425px; " src="https://github.com/rafaelRizzo/moviesLibReact/blob/main/projeto-mobile.png"/>
 </div>
 
